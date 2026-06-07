@@ -2,4 +2,4 @@
 This is my first git respository
 <br>
 
-Author - Shyam Singh
+Author - Shyam Singh (Techno India)
